@@ -281,3 +281,22 @@ def visualize_gradient_2D(x, y, w, b, compute_cost, compute_gradient):
     ax.set_title('Gradient Visualization')
     ax.legend()
     plt.show()
+
+def plot_regression_line(X, Y, model):
+    plt.close()
+    # Plot scatter plot
+    plt.scatter(X, Y, color='b', label='Data Points')
+
+    # Plot line traced by linear regression
+    plt.plot(X, model.predict(X), color='r', label='Linear Regression')
+
+    # Set labels and title
+    plt.xlabel('X')
+    plt.ylabel('Y')
+    plt.title('Linear Regression')
+
+    # Display legend
+    plt.legend()
+
+    # Show the plot
+    plt.show()
