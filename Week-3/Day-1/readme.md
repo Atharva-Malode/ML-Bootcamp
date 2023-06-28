@@ -11,7 +11,7 @@
 - [Implementation[K-means Clustering]](#➤-implementation-k-means-clustering)
 - [Implementation[K-nearest neighbor(KNN)]](#➤-implementation-k-nearest-neighbor-knn)
 - [Steps for Cloning the Repository](#➤-steps-for-cloning-this-repository)
-- [Steps for Submission](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/Submission.md)
+- [Steps for Submission](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/Submission.md)
 ----
 
 # ➤ Introduction✨
@@ -30,7 +30,17 @@ K-means clustering is an unsupervised learning algorithm that aims to divide a d
 
 ## ➤ K-nearest neighbor (KNN)
 
-K-nearest neighbor (KNN) is a simple yet powerful supervised learning algorithm used for classification and regression tasks. It predicts the class of a new data point based on the majority class of its K nearest neighbors in the training data. KNN is a versatile algorithm that can handle both numerical and categorical data.
+- K-nearest neighbor (KNN) is a simple yet powerful supervised learning algorithm used for classification and regression tasks. It predicts the class of a new data point based on the majority class of its K nearest neighbors in the training data. KNN is a versatile algorithm that can handle both numerical and categorical data.
+- The K-Nearest Neighbors (KNN) algorithm some formulas:
+
+1. Euclidean Distance:
+The Euclidean distance formula is used to measure the distance between two points in a multi-dimensional space. It is a crucial component of the KNN algorithm for finding the nearest neighbors. The formula is as follows:
+
+The Euclidean distance between two points (x1, y1) and (x2, y2) can be calculated using the formula:
+
+```
+√((x₂ - x₁)² + (y₂ - y₁)² + ... + (z₂ - z₁)²)
+```
 
 ### __Note:__ You need to install all the necessary libraries for the implementation
 
@@ -82,17 +92,6 @@ knn.fit(X_train, y_train)
 
 # Predict the classes for new data points
 predictions = knn.predict(X_test)
-```
-
-----
-
-## ➤ Steps For Cloning this Repository
-1. Open your terminal and navigate to the directory where you want to clone this repository.
-2. Copy the file link from the repository.
-2. Run the following command to clone this repository:
-
-```shell
-git clone PASTE_REPOSITORY_LINK
 ```
 
 ----
