@@ -181,7 +181,7 @@ Thank you for your hard work and dedication to this project/work! To ensure a sm
 
 ---- 
 
-<div id="header" align="center"
+<div id="header" align="center">
 <img src="https://github.com/AayushPaigwar/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/mission-complete-spongebob.gif" alt="Logo" align= "center" width="150" height="150" />
 </div>
 
