@@ -90,7 +90,7 @@ The Euclidean distance between two points (x1, y1) and (x2, y2) can be calculate
  
 
  <div id="header" align="center">
-<img src="https://github.com/AayushPaigwar/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/cat-dog-example-knn.png" alt="Logo" align= "center" width="400" height="250" />
+<img src="/Users/aayushpaigwar/AAYUSH/ML Bootcamp/ML-Bootcamp/How-to-Submit-a-Collab-File/images/cat-dog-example-knn.png" alt="Logo" align= "center" width="400" height="250" />
 </div>
 
 
