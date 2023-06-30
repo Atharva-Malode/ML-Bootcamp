@@ -1,5 +1,5 @@
-# ML Bootcamp Week-3 Day-1🚀
-#### __📍Note:__ This repository contains materials for ML Bootcamp Week-3 Day-1, focusing on K-means clustering and K-nearest neighbor (KNN) algorithms.
+# ML Bootcamp Week-3 Day-2🚀
+#### __📍Note:__ This repository contains materials for ML Bootcamp Week-3 Day-2, focusing on K-means clustering and K-nearest neighbor (KNN) algorithms.
 ----
 
 ## ➤ Table of Contents 📚
@@ -7,9 +7,11 @@
 - [Introduction](#➤-introduction✨)
 - [K-means Clustering](#➤-k-means-clustering💫)
 - [K-nearest Neighbor (KNN)](#➤-k-nearest-neighbor-knn)
+- [Principal Component Analysis (PCA)](#➤-principal-component-analysis-pca)
 - [Installation](#➤-installation)
 - [Implementation[K-means Clustering]](#➤-implementation-k-means-clustering)
 - [Implementation[K-nearest neighbor(KNN)]](#➤-implementation-k-nearest-neighbor-knn)
+
 - [Steps for Submission]()
 ----
 
@@ -110,9 +112,17 @@ Step-5: Assign the new data points to that category for which the number of the 
 Step-6: Our model is ready.
 ```
 ----
+## ➤ Principal Component Analysis (PCA)
 
+- Principal Component Analysis is an unsupervised learning algorithm that is used for the dimensionality reduction in machine learning. 
+- It is a statistical process that converts the observations of correlated features into a set of linearly uncorrelated features with the help of orthogonal transformation.
+- These new transformed features are called the Principal Components. It is one of the popular tools that is used for exploratory data analysis and predictive modeling.
+- It is a technique to draw strong patterns from the given dataset by reducing the variances.
+ 
+----
 ### __Note:__ You need to install all the necessary libraries for the implementation
 
+---
 ## ➤ Installation
 
 To run the code in this repository, you need to have the following libraries installed:
@@ -166,13 +176,7 @@ knn.fit(X_train, y_train)
 predictions = knn.predict(X_test)
 ```
 
-----
-
-
- 
-
- 
-
+---
 
 # 📌 Submission Week-3 [Day-1] 
 
