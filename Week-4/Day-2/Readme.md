@@ -3,7 +3,7 @@
 This project aims to develop a machine learning model to classify Pokemon images into three categories: Pikachu ⚡️, Bulbasaur 🍃, and Charmander 🔥. By training a deep learning model on a labeled dataset of Pokemon images, the system can predict the correct category for a given input image.
 
 <div id="header" align="center">
-<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/Img-pokemon.png" alt="Logo" align= "center" width="340" height="300" />
+<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/Img-pokemon.png" alt="Logo" align= "center" width="550" height="380" />
 </div>
 
 ### ➤ Project Overview 📚
@@ -17,18 +17,19 @@ This project aims to develop a machine learning model to classify Pokemon images
 ## LET'S SEE HOW THEY LOOK!!
 
 ### Pickachu
+
 <div id="header" align="center">
-<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/pickachu.png" alt="Logo" align= "center" width="250" height="200" />
+<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/pickachu.png" alt="Logo" align= "left" width="250" height="200" />
 </div>
 
 ### Charmander
 <div id="header" align="center">
-<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/charmander.jpg" alt="Logo" align= "center" width="250" height="200" />
+<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/charmander.jpg" alt="Logo" align= "left" width="250" height="200" />
 </div>
 
 ### Balbasaur
 <div id="header" align="center">
-<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/balbasaur.jpg" alt="Logo" align= "center" width="250" height="200" />
+<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/balbasaur.jpg" alt="Logo" align= "left" width="250" height="200" />
 </div>
 
 
