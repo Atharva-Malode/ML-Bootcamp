@@ -16,16 +16,19 @@ This project aims to develop a machine learning model to classify Pokemon images
 🌟 Let's catch 'em all and classify them with precision! Have a fantastic time exploring the world of Pokémon and building an incredible classification system! 🌟
 ## LET'S SEE HOW THEY LOOK!!
 
+### Pickachu
 <div id="header" align="center">
-<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/pickachu.png" alt="Logo" align= "left" width="250" height="200" />
+<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/pickachu.png" alt="Logo" align= "center" width="250" height="200" />
 </div>
 
+### Charmander
 <div id="header" align="center">
 <img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/charmander.jpg" alt="Logo" align= "center" width="250" height="200" />
 </div>
 
+### Balbasaur
 <div id="header" align="center">
-<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/balbasaur.jpg" alt="Logo" align= "right" width="250" height="200" />
+<img src="https://github.com/AditiF16/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/images/balbasaur.jpg" alt="Logo" align= "center" width="250" height="200" />
 </div>
 
 
